@@ -8,7 +8,7 @@
     justify-content: center;
 }
 .nav{
-    background-color: rgb(59, 50, 50);
+    background-color: #0f2747;
     color: white;
     height: 60px;
     display: flex;
@@ -26,14 +26,14 @@
 .home{
     padding: 10px;
     border-radius: 30px;
-    background-color: white;
-    color: black;
+    background-color: #eaf6ff;
+    color: #0f2747;
 }
 .home:hover{
-    background-color: red;
+    background-color: #38bdf8;
 }
 .home:active{
-    background-color: rgb(255, 251, 0);
+    background-color: #0284c7;
 }
 a{
     color: white;
@@ -49,19 +49,18 @@ a{
     font-size: 40px;
 }
 .book{
-    background-color: white;
-    color: black;
+    background-color: #38bdf8;
+    color: #0f2747;
     padding: 10px;
     border-radius: 30px;
 }
 .book:hover{
-    background-color: red;
+    background-color: #0284c7;
     color: white;
 }
 #contact{
-    background-color: rgb(59, 50, 50);
+    background-color: #0f223a;
     color: white;
-    height: 200px;
+    height: 150px;
     text-align: center;
-    padding-top: 50px;
 }
